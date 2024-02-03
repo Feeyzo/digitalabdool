@@ -1,0 +1,37 @@
+.sticky-top{
+    background-color: white;
+}
+.logo {
+    font-family: "Protest Guerrilla", sans-serif;
+    font-size: larger;
+    font-weight: 600;
+    font-style: normal;
+  }
+
+.icons a:link{
+    color: black;
+}
+.icons a:visited{
+    color: black;
+}
+.nav li .btn{
+    margin-left: 10px;
+}
+.btn{
+    background-color: black;
+    color: white;
+}
+.btn:hover{
+    background-color: gray;
+}
+.btn a:link{
+    color: white;
+}
+.btn a:visited{
+    color: white;
+}
+.logo h1{
+    padding-top: 20px;
+    padding-bottom: 0;
+    padding-left: 20px;
+}
